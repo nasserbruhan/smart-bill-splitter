@@ -1,0 +1,7 @@
+{
+  "name": "SplitIt - AI Bill Splitter",
+  "description": "Snap a receipt and let AI automatically identify items. Easily assign shares to friends and calculate fair totals including tax and tip.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
